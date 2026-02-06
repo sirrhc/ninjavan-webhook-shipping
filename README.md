@@ -25,5 +25,5 @@ can be configured to send out information based on a selected list of user chose
 - Timestamp update tracking viewing
 - Status tracking
 - Order matching through shipping numbers
-- Date, status and number filtering feature
+- Date, status and number filtering
 - Log database migration
